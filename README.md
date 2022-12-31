@@ -16,7 +16,7 @@ To use this email extractor tool, you will need the following:
 Using this email extractor tool is easy:
 
 1. Place the files that you want to extract email addresses from in the `files` directory. If the `files` directory does not exist, it will be created when you run the script.
-2. Run the script using `python email_extractor.py`.
+2. Run the script using `python scrap.py`.
 3. The extracted email addresses will be written to a file named `results.txt` in the same directory as the script.
 
 ## Additional Notes
