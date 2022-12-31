@@ -45,5 +45,4 @@ A window will open with the Email Extractor GUI. To use the program:
 
 License
 -------
-
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/chat/LICENSE) file for details.
+This project is licensed under the [GPL-3.0 license](LICENSE).
